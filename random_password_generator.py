@@ -43,3 +43,12 @@ def generate_password(length, use_digits, use_uppercase, use_special):
     
     return ''.join(password)
 
+
+# TODO: Prompt the user for password length and validate the input
+# TODO: Ask user if they want to include digits, uppercase letters, and special characters
+# TODO: Ensure the user selects at least one character set (digits, uppercase, or special characters)
+# TODO: Generate and display the password
+# TODO: Offer the option to save the password to a file
+# TODO: Save the password to a text file
+# TODO: Run the main function
+
